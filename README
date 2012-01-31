@@ -1,0 +1,17 @@
+Ratchet - Unknown serial number fix for Asus Transformer Prime TF201.
+by androidroot.mobi
+=====================================================================
+
+Ratchet is licensed under the GNU GPL v2.
+
+How to run:
+
+Ratchet needs to be run as root, to that end, the mempodroid root exploit
+is also included in the download.
+
+Push ratchet onto /data/local/.
+
+If not rooted (from ADB shell): ./mempodroid 0xd9ec 0xaf47 /data/local/ratchet
+
+If your device is rooted, make sure to 'su' before you run ratchet.
+
